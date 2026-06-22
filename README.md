@@ -10,7 +10,7 @@ This repository hosts a proof-of-concept, interactive 3D Tricone Drill Bit plot 
 - [Experience the interactive 3D plot via Github Pages](https://maribickpostanes.github.io/Tricone-Bit-3D/)
 - [3D Interactive Tricone Bit Linkedin Post](https://www.linkedin.com/posts/maribickpostanes_python-cadquery-numpy-ugcPost-7413964617481355264-98kf/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0zM30B4KzLX-dj_Wzk1w4cfxNQrmDmOYs)
 
-## 3D Model Source:
+## 3D Model Source
 - 3D Model: Tricone Drill Bit by Ekawira K. Napitupulu via GrabCAD
 - Format: CAD Exchange Format (.step)
 
